@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="2560" height="1440" alt="Title" src="https://github.com/user-attachments/assets/5e3ff4df-9b0d-4401-bf43-d5f6446a2de8" alt="Title: Digital Independence Guide"/>
+  <img width="2560" height="1440" alt="Title" src="https://github.com/user-attachments/assets/8184a489-4942-4746-8a50-531af12ac088" alt="Title: Digital Independence Guide"/>
 </p>
-A guide for moving your dependance away from big tech companies.
+A guide for moving your dependence away from big tech companies.
 
 # How to use this guide
 This guide will be split into three parts: Basic, Standard, and Complex.
